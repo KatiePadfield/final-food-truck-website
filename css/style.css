@@ -2,18 +2,20 @@ body {
   background-color:#152E4B
 }
 
+.bg-info {
+  background-color: pink !important;
+}
+
 .navbar { 
   border: 1px solid lime;
   background-color:aqua;
 }
 
-#navbarNav {
-  background-color:blue;
-}
 
-.header-color {
-  background-color:blueviolet;
-}
+
+
+
+
 
 .header-text {
     color:white;
