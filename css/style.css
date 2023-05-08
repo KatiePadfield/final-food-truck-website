@@ -1,25 +1,48 @@
+
+/* global */
+
 body {
+  color: white;
   background-color:#152E4B
+
 }
 
 .bg-info {
-  background-color: pink !important;
+  background-color: #6BA6C3 !important;
 }
-
-.navbar { 
-  border: 1px solid lime;
-  background-color:aqua;
-}
-
-
-
-
-
-
 
 .header-text {
     color:white;
 }
+
+/* home */
+
+.my-carousel {
+
+  padding: 50px;
+
+}
+
+.about {
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.about-header {
+  color: #F8CA23;
+}
+
+.about-text {
+
+ 
+}
+
+
+
+
+/* find */
+
 
 .map-container-2{
     overflow:hidden;
@@ -36,10 +59,25 @@ body {
   }
 
   .map {
-    border: 1px solid lime;
+  
     padding: 10px;
   }
 
+
+  /* menu */
+
+
+  /* form */
+
+  .my-form {
+    padding-left:  50px;
+    padding-right: 50px;
+  }
+
+  .card-body {
+    background-color: #152E4B;
+    
+  }
 
 
   
