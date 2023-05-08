@@ -2,6 +2,18 @@ body {
   background-color:#152E4B
 }
 
+.navbar { 
+  border: 1px solid lime;
+  background-color:aqua;
+}
+
+#navbarNav {
+  background-color:blue;
+}
+
+.header-color {
+  background-color:blueviolet;
+}
 
 .header-text {
     color:white;
@@ -20,3 +32,12 @@ body {
     width:100%;
     position:absolute;
   }
+
+  .map {
+    border: 1px solid lime;
+    padding: 10px;
+  }
+
+
+
+  
