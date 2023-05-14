@@ -6,8 +6,7 @@ body {
 }
 
 .bg-info {
-  background-color: #6BA6C3 !important;
-  opacity: 0.5;
+  background-color: #516886 !important;
 }
 
 .header-text {
@@ -31,7 +30,14 @@ body {
 .about-header {
   color: #F8CA23;
 }
+.thumbnail {
+  padding: 10px;
+}
 
+ul {
+  list-style-type: none;
+  
+}
 
 
 
@@ -57,9 +63,21 @@ body {
     padding: 10px;
   }
 
+  .map-list {
+    margin: 50px;
+  }
+
 
   /* menu */
 
+  .day-menu {
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+ 
+
+  }
+  
 
   /* form */
 
