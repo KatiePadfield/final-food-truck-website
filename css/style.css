@@ -1,9 +1,6 @@
 
 /* global */
 
-body {
-
-}
 
 .bg-info {
   background-color: #516886 !important;
@@ -13,10 +10,10 @@ body {
     color:white;
 }
 
-.font{
-  font-family: 'Dancing Script', cursive;
-  font-style: normal;
-  font-weight: 400;
+.my-font{
+  font-family: 'Abril Fatface', cursive;
+            font-weight: 400;
+            font-size: 40px;
 }
 
 .title {
@@ -44,6 +41,10 @@ body {
 ul {
   list-style-type: none;
   
+}
+
+.title-colour {
+  color: #152E4B;
 }
 
 
@@ -96,6 +97,12 @@ ul {
   .about-form {
     text-align: center;
     padding-top: 50px;
+  }
+
+  .my-form-text {
+   margin-left:  100px;
+    margin-right: 100px;
+
   }
 
   .my-form {
